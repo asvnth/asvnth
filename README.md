@@ -8,7 +8,7 @@
  > loading questionable decisions...      
  > done.                                  
 ──────────────────────────────────────────
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/asvnth/asvnth/output/github-snake-dark.svg">
-</p>
+</p> -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
