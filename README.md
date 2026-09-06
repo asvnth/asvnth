@@ -5,9 +5,9 @@
 │  SVNTH // SYSTEM                         │
 ├──────────────────────────────────────────┤
 │                                          │
-│  STATUS      ● ONLINE                    │
-│  USER        svnth                       │
-│  MODE        building                    │
+│  STATUS      ● NINI                      │
+│  USER        Sedmoy                      │
+│  MODE        Vosstanovlen                │
 │                                          │
 │  ──────────────────────────────────────  │
 │                                          │
@@ -19,7 +19,7 @@
 │  └── SQL                                 │
 │                                          │
 │  CURRENTLY                               │
-│  └── learning / experimenting / building│
+│  └── obuchen / eksperimentirov / sozdan  │
 │                                          │
 └──────────────────────────────────────────┘
 ```
