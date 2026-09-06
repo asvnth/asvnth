@@ -1,7 +1,7 @@
 ╭──────────────────────────────────────────╮
-│ SVNTH                                    │
+│ SEDMOY                                   │
 │                                          │
-│ [███████████████████░]  SYSTEM ONLINE   │
+│ [███████████████████░]  SYSTEM ONLINE    │
 │                                          │
 │ > initializing personality...            │
 │ > loading projects...                    │
