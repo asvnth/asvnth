@@ -1,16 +1,66 @@
-## Hi there 👋
+# `svnth`
 
-<!--
-**asvnth/asvnth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+┌──────────────────────────────────────────┐
+│  SVNTH // SYSTEM                         │
+├──────────────────────────────────────────┤
+│                                          │
+│  STATUS      ● ONLINE                    │
+│  USER        svnth                       │
+│  MODE        building                    │
+│                                          │
+│  ──────────────────────────────────────  │
+│                                          │
+│  LANGUAGES                               │
+│  ├── Python                              │
+│  ├── C                                   │
+│  ├── Lua                                 │
+│  ├── JavaScript                          │
+│  └── SQL                                 │
+│                                          │
+│  CURRENTLY                               │
+│  └── learning / experimenting / building│
+│                                          │
+└──────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
+### `> projects`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| **Py-Elzero_Practice** | Python experiments |
+| **Nvim_Config** | My Neovim setup |
+| **C-Random** | C experiments |
+| **term_conf** | Terminal configuration |
+
+### `> about`
+
+Just a guy who enjoys figuring out how things work.
+
+```text
+$ ./svnth
+
+> code
+> break
+> fix
+> repeat
+```
+
+<details>
+<summary>🔴 classified</summary>
+
+```text
+ACCESS GRANTED
+
+you found the hidden section.
+
+there's nothing here.
+
+probably.
+```
+
+</details>
+
+---
+
+`[ SYSTEM ONLINE ]`
