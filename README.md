@@ -1,13 +1,13 @@
-╭──────────────────────────────────────────╮
-│ SEDMOY                                   │
-│                                          │
-│ [███████████████████░]  SYSTEM ONLINE    │
-│                                          │
-│ > initializing personality...            │
-│ > loading projects...                    │
-│ > loading questionable decisions...      │
-│ > done.                                  │
-╰──────────────────────────────────────────╯
+──────────────────────────────────────────
+ SEDMOY                                   
+                                          
+ [███████████████████░]  SYSTEM ONLINE    
+                                          
+ > initializing personality...            
+ > loading projects...                    
+ > loading questionable decisions...      
+ > done.                                  
+──────────────────────────────────────────
 <p align="center">
   <img src="https://raw.githubusercontent.com/asvnth/asvnth/output/github-snake-dark.svg">
 </p>
